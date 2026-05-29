@@ -43,7 +43,7 @@ function HomeComponent() {
             }}
         >
             <div style={{ display: "flex", alignItems: "center" }}>
-            <h2 style={{ margin: 0, fontSize: "28px" }}>Apna Video Call</h2>
+            <h2 style={{ margin: 0, fontSize: "28px" }}>Connectify</h2>
             </div>
 
             <div
