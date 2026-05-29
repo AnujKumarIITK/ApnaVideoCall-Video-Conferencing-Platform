@@ -128,7 +128,7 @@ export default function Authentication() {
                             color: "white",
                         }}
                         >
-                        ApnaVideoCall
+                        Connectify
                         </Typography>
 
 
